@@ -302,6 +302,36 @@ a {
 
 }
 
+.card-img-rootbeer {
+    width: 350px;
+    height: 300px;
+    border-radius: 42px;
+    background: url('../img/rootbeer-logo.png') no-repeat;
+    background-size: 300%;
+    background-position-y: 50%;
+    background-position-x: 100%;
+}
+
+.card-img-mc {
+    width: 350px;
+    height: 300px;
+    border-radius: 42px;
+    background: url('../img/mc-skiner-boi.png') no-repeat;
+    background-size: 100%;
+    background-position-y: 0%;
+    background-position-x: 100%;
+}
+
+.card-img-icon-theme {
+    width: 350px;
+    height: 300px;
+    border-radius: 42px;
+    background: url('../img/wobbly.svg') no-repeat;
+    background-size: 100%;
+    background-position-y: 0%;
+    background-position-x: 100%;
+}
+
 /* end cards */
 
 /* media querys *
